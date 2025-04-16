@@ -1,2 +1,1 @@
-# Nikimarubottrading
-Bot de trading para Android.
+# Nikimarubot Trading
